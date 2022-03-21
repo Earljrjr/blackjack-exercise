@@ -1,0 +1,10 @@
+My planning steps for the blackjack game 
+
+Step.1 Make basic HTML info/fonts
+Step.2 Style the page with coloring 
+Step.3 Look into what I need grids or flexbox size and width of each div 
+Step.4 Get images for the cards
+Step 5 = Step 3 from Dc (img tag to the Dealerhand and Playerhand)
+Steps 6-8 = Steps 4-6 from DC looking into executing the steps with DOM, Loops,Methods,Arrays
+Steps.7 Working with the Plaerhand & Dealerhand with the ID method i might want to use for the Loop and Arrays
+Step 8-16 WILL USE THE STEPS OF DC TO COMPLETE THE EXERCISE 
